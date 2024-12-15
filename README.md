@@ -10,6 +10,8 @@
 Стек:
 
 - Python 3.12
+- Django   5.1.4
+- SQLite
 
 
 
